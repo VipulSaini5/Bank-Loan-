@@ -31,3 +31,6 @@ Insight 2: Purpose of taking loan. Why they took the loan and what they're gonna
 Insight 3: Term of the loan - For how long an People took loan. As in the data people usually take loan for 3 years or 5 years. Mejority are for 3 years (73%) of total loan.
 
 These insights can guide better decision-making and risk assessment for banks and financial institutions.
+
+Acknowledgements
+This project was inspired by a tutorial from [https://youtu.be/3I8wd1AShXs]. The original dataset and some query ideas were sourced from this tutorial.
