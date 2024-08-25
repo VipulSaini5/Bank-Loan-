@@ -18,7 +18,7 @@ The SQL queries included in this project address the following key questions:
 Loan Amount Analysis: What is the average loan amount across different customer segments?
 Default Trends: How do loan defaults vary by region and loan tenure?
 Risk Factors: Which factors are most strongly associated with loan defaults?
-You can find all the queries in the SQLQuery2.sql file.
+You can find all the queries in the Bank loan SQLQuery.sql file.
 
 
 🧐 Key Insights
