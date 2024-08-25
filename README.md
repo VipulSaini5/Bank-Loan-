@@ -25,6 +25,9 @@ You can find all the queries in the SQLQuery2.sql file.
 Through this analysis, I have uncovered several important insights:
 
 Insight 1: Good Loan and Bad Loan - It includes how many customers are not not paying they Principle amount or Installment on Month wise.
+
 Insight 2: Purpose of taking loan. Why they took the loan and what they're gonna do with loan amount Such as, Wedding, Debt consolidation, Credit Card, Car, etc.
+
 Insight 3: Term of the loan - For how long an People took loan. As in the data people usually take loan for 3 years or 5 years. Mejority are for 3 years (73%) of total loan.
+
 These insights can guide better decision-making and risk assessment for banks and financial institutions.
